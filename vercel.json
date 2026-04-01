@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/presentation/claude-ecosystem-deep-dive.html"
+    }
+  ]
+}
