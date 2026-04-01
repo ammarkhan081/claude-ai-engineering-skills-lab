@@ -29,6 +29,8 @@ The repo is structured to be practical, easy to demo, and aligned with Anthropic
 - Skills index: [skills.md](./skills.md)
 - Research notes and references: [research/sources.md](./research/sources.md)
 - Standalone presentation: [presentation/claude-ecosystem-deep-dive.html](./presentation/claude-ecosystem-deep-dive.html)
+- Viva preparation: [docs/viva-questions-and-answers.md](./docs/viva-questions-and-answers.md)
+- Assignment checklist: [docs/assignment-compliance-checklist.md](./docs/assignment-compliance-checklist.md)
 
 ## Direct GitHub Skill Links
 
